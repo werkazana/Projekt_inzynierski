@@ -1,0 +1,21 @@
+# === Pomijaj duże dane i wyniki ===
+archive/
+heatmap/
+gradcam_results/
+*.jpeg
+*.jpg
+*.png
+*.pt
+*.pth
+
+# === Pliki tymczasowe / środowiskowe ===
+__pycache__/
+*.pyc
+*.ipynb_checkpoints/
+.DS_Store
+.env
+*.log
+
+# === Foldery edytorów ===
+.idea/
+.vscode/
