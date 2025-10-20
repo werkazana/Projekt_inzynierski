@@ -19,3 +19,5 @@ __pycache__/
 # === Foldery edytorów ===
 .idea/
 .vscode/
+# Pomijaj plik/folder o nazwie 'nul' (Windows rezerwuje tę nazwę)
+nul
